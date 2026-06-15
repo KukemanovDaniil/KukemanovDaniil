@@ -5,7 +5,7 @@ I am a game developer currently learning and writing games in C++, but I also ha
 ---
 
 ### Current Project
-* **OUTREACH** — An open-source voxel sandbox game built with **C++ 17** using **Raylib**.
+* **Blocks2D** — A 2D RPG with sandbox elements, running on C++20 SFML.
 * Right now, I am actively diving deep into C++ and game development tools.
 
 ---
