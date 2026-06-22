@@ -13,7 +13,7 @@ I am a game developer currently learning and writing games in C++, but I also ha
 ### Tech Stack
 
 * **Languages:** C++, GDscript
-* **Game Dev & Graphics:** Godot Engine, Raylib
+* **Game Dev & Graphics:** Godot Engine, SFML
 * **Tools & Environment:** CMake, Git
 
 ---
