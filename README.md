@@ -1,5 +1,3 @@
-## About me
-
 I am a game developer currently learning and writing games in C++, but I also have experience with Godot.
 
 ---
