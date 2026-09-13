@@ -2,5 +2,5 @@
   <h1>About me</h1>
   <a href="https://kukemanovdaniil.github.io/microlanding/" target="_blank">Microlanding</a>
    • 
-  <a  target="_blank">Website</a>
+  <a href="https://kukemanovdaniil.github.io/website/" target="_blank">Website</a>
 </div>
